@@ -82,6 +82,99 @@ A lot of new and fun activities, from getting the gist of Haskell’s role in th
 
 
 ## Week 9
+### Weekly Content on Design Patterns
+
+**Date Attended: 04 Mar 2024**
+
+Learned design patterns are like secret recipes for coding troubles, giving us smart ways to tackle common problems. They make our code neat and easy for other coders to get.
+
+**Reflection:** Design patterns really click with me, seem pretty much of a lifesaver! It show the power of organized problem-solving in coding, turning abstract ideas into real solutions for tricky tasks.
+
+---
+
+### Reading the Community Code Assignment
+
+**Date Completed:** 08 Mar 2028
+
+I checked out the Community Code gig on Brightspace, learning all about the perks of diving into open source and what's expected from our contributions.
+
+**Reflection:** This task gave me the idea of boosting my own skills and helping the whole code-loving community.
+
+---
+
+### Reading "How to Contribute to Open Source"
+
+**Date Completed:** 08 Mar 2028
+
+This guide was a treasure trove, laying out the A to Z of chipping in to open source, from the big picture to picking the right projects.
+
+**Reflection:** The guide broadened my view on open-source gigs, showing it’s not just about coding but also helping with docs, design, and community vibes. However, I noticed a lot of tasks were pretty old, especially when it comes to frameworks, there has been significant updates and were not throwing errors, but I figured a secret tip to search for issues on GitHub ( label:"good first issue" language:JavaScript ). This helped me a lot to find plenty of new issues where I have the opportunity to contribute before anyone else.
+
+### Summary of Open Source Contributions:
+
+1. **Understanding Contribution:** It's more than code; it's about docs, community, and support too.
+2. **Finding a Project:** Tools like GitHub Explore and Open Source Friday are my maps to projects that match my interests and skills.
+
+---
+
+### Finding Potential Projects to Contribute To
+
+**Date Completed:** 08 Mar 2028
+
+I ventured into Good First Issue, Up for Grabs, and CodeTriage, eyeing Kotlin projects because mobile development is my jam.
+
+### Projects Explored:
+
+1. **Project A:** https://github.com/react-toolbox/react-toolbox/issues/1774 - Grabbed my attention since it was an easy fix, however this was already fixed and merged. But the interesting part was the fix for the issue wasn’t an ideal solution.
+2. **Project B:** https://github.com/yelynn1/tictactoe/issues/132 - Loved its community vibe and solid guides, however even this was solved. What I noticed in both these issues that annoyed me was that, the contributor’s didn’t bother to comment on the issue, so when I initially saw the issue I thought it wasn’t touched by anyone yet.
+
+**Reflection:** This hunt showed the rich variety of open-source projects, all needing different kinds of help, from coding to docs and leading the charge.
+
+---
+
+### Exploring Community Connections
+
+**Date Completed:** 08 Mar 2028
+
+Went on searching for ideal communities that are suitable for me which is neither too complicated coding nor just beginner projects.
+
+**Summary of Discoveries:**
+
+- Found buzzing communities ready to support, teach, and collaborate.
+- Realized how these groups are the heartbeat of project growth and contributor learning.
+
+**Reflection:** Peeking into these communities unveiled their crucial role in keeping open-source projects alive and kicking, paving paths for meaningful contributions.
+
+---
+
+### Identifying Issues to Support
+
+**Date Completed:** 08 Mar 2028
+
+Back to GitHub, I zeroed in on issues marked "good first issue" or "help wanted" in the projects I liked.
+
+### Issues Identified:
+
+1. **Issue A:** https://github.com/prateekkalra/guess-game/issues/8 - This seemed pretty interesting and easy to solve
+2. **Issue B:** https://github.com/prateekkalra/guess-game/issues/62 - This felt way too easy
+
+**Reflection:** This step hammered home that open-source help comes in many flavors, and every little bit adds up to big wins for the project.
+
+---
+
+---
+
+## Week 9 Reflection
+
+Diving deep into open-source contributions and design patterns has been a blast. From getting to grips with the community code assignment to scouting for projects and pinpointing issues to tackle, it's been a full-on leap into the vibrant world of open-source. Plus, getting the hang of design patterns has given me a solid grip on the topic.
+
+**Bibliography:**
+
+- GitHub's "How to Contribute to Open Source" guide. (n.d.). Nabbed from https://opensource.guide/how-to-contribute/
+- Good First Issue. (n.d.). Scooped from https://goodfirstissue.dev/
+- Up for Grabs. (n.d.). Snagged from https://up-for-grabs.net/
+- CodeTriage. (n.d.). Picked up from https://www.codetriage.com/
+
 
 ## Week 12
 
