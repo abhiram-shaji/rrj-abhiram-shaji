@@ -176,6 +176,54 @@ Diving deep into open-source contributions and design patterns has been a blast.
 - CodeTriage. (n.d.). Picked up from https://www.codetriage.com/
 
 
+## Week 10
+### Weekly Content on MV* Patterns
+
+**Date Attended:** 11 Mar 2024
+
+Learned about MV* patterns scene, like MVC (Model View Controller) and MVVM (Model View ViewModel). These are the big guns of software architecture, helping to keep apps well-organized and smart.
+
+**Reflection:** Learning about MV* patterns was like opening a treasure chest , showing me how they help in keeping different parts of an app tidy and scalable.
+
+---
+
+### Assessing External Community Contribution Guidelines
+
+**Date Completed:** 16 Mar 2024
+
+I dove into the guidelines of an open source project I've got my eye on, scanning through their `README.md`, `CONTRIBUTING.md`, and `CONDUCT.md`.
+
+**Reflection:** This task was like a mini-course on the dos and don’ts of open source collaboration, stressing the need to get the community vibes right for smooth sailing in contributions.
+
+### Contribution Guidelines Summary:
+
+- Got the scoop on how to chip in properly by reviewing the essential docs.
+- Marked down the must-knows and what's expected from contributors.
+
+---
+
+---
+
+---
+
+---
+
+### Week 10 Reflections
+
+Diving deep into MV* patterns and turning that knowledge into real-world coding collabs. From dissecting contribution guides to jumping into open source waters, it's been a full-on masterclass in team dev work and project ecosystem dynamics.
+
+**Most Challenging Aspect:**
+
+Navigating the external community's contribution maze was tough, needing a keen eye on their rules and a deep dive into the project's pulse.
+
+---
+
+**Bibliography:**
+
+-
+
+## Week 11
+
 ## Week 12
 
 ## Week 13
