@@ -224,6 +224,76 @@ Navigating the external community's contribution maze was tough, needing a keen 
 
 ## Week 11
 
+### Weekly Content on Object-Oriented Programming (OOP)
+
+**Date Attended: 18 Mar 2024**
+
+The lectures dished out a full plate on OOP, showing off its principles, perks, and how it stacks up against functional programming, set for next week's chat.
+
+**Reflection:** These talks really amped up my OOP game, showing me how it tidies up code to mimic real life, making gnarly software more user-friendly and keepable.
+
+---
+
+### Connect with Your External Community
+
+**Date Completed:** 22 Mar 2024
+
+I jumped into the external community's world, chatting on their go-to platform, sharing my eagerness to chip in, and fishing for tips and backup. This wasn’t easy as the external project I was working on seem to be dead in terms of responses
+
+**Reflection:** Was a learning curve regarding choosing the ideal issue to work on.
+
+---
+
+### Reading Through Pattern Library Issues
+
+**Date Completed:** 23 Mar 2024
+
+I eyeballed all the hot topics and pull requests in the pattern-library
+
+**Actions Taken:**
+
+- Went through different issues looking for the most suitable one.
+- Also went through what other’s been doing in the community so far.
+- Pitched new features, drawing from peeks at similar code vaults.
+
+**Reflection:** This deep dive into the pattern-library's heartbeat let me pitch in with smarts, making my mark where it counts.
+
+---
+
+### Continuing Contributions to External Community
+
+**Date Completed:** 22 Mar 2024
+
+I plowed ahead with the issue I picked in the external community, mapping my voyage, hurdles, and how I dodged them in the `CONTRIBUTING.md`.
+
+**Reflection:** Smooth sailing or choppy waters, this journey's been a treasure trove of lessons in noodling through problems, sticking to it, and the dance of open-source teamwork.
+
+---
+
+### Contributing to Pattern-Library
+
+**Date Completed:** 23 Mar 2024
+
+Kept at my mission in the pattern-library, aiming to nail the task at hand and keeping the gang in the loop with my steps.
+
+**Reflection:** Diving into the pattern-library underscored the big deal of regular chit-chat and updates in team projects, making sure we're all in sync and clued in on the goings-on.
+
+---
+
+### Week 11 Reflections
+
+Tackling stuff with both the external community and the pattern-library project this week was a brain feast! Got my hands dirty with OOP insights, open-source giving, and team coding shenanigans.
+
+**Reflection:** Getting the hang of Kotlin’s flex in both OOP and functional styles has widened my view on its toolkit, boosting my coding finesse across different project landscapes. Also I’m considering switching my language for community code project from JavaScript to Kotlin since nobody seem to be implementing Kotlin and I already have a hot understanding of the language since I worked on some intermediate projects last semester using Ktor framework. Also for the external community project, I’m eyeballing towards a community that uses both Python (for DB and app) and JavaScript (for front end manipulation), due to which I will use both programming language as a part of it.
+
+---
+
+**Bibliography:**
+
+- OOP lesson loot from DGL 104.
+- Chats and collabs on the external open-source project's platforms.
+- The hive of activity that is the pattern-library project on GitHub.
+
 ## Week 12
 
 ## Week 13
