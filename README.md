@@ -29,6 +29,8 @@ I dived into the Research & Reflection assignment on Brightspace and worked on t
 
 ### Writing a User Story for a Messaging App
 
+This exercise was done in a group with my group consisting of Lara and Nazrin. However, since I didn't save our group work anywhere, I'm creating another one as an example. This will also help be another little practice session for me in building user stories.
+
 **Date Completed:** 26 Feb 2024
 
 - **General User Story:** "As a user, I want to send a message to chat with my peeps."
