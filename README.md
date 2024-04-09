@@ -258,11 +258,14 @@ Got the scoop on how to chip in properly by reviewing the essential docs. Marked
 
 Since forking and creation of new branch has already been done the previous, I went straight to coding according the sloution plan I made last week. 
 
-**CONTRIBUTING.md**
 
-## Issue
+**Issue** Sound Button Duplication · Issue #132 · yelynn1/tictactoe (github.com) 
 
-**Sound Button Duplication #132**
+**Fork** abhiram-shaji/tictactoe at fix-sound-button-duplication (github.com) 
+
+## CONTRIBUTING.md
+
+**Issue : Sound Button Duplication #132**
 
 If you win the game and undo the last move, then win again, the sound button duplicates itself.
 
@@ -319,11 +322,31 @@ The lectures dished out a full plate on OOP, showing off its principles, perks, 
 
 ---
 
-### Connect with Your External Community
+### Contribute to Pattern-Library
 
 **Date Completed:** 22 Mar 2024
 
-I jumped into the external community's world, chatting on their go-to platform, sharing my eagerness to chip in, and fishing for tips and backup. This wasn’t easy as the external project I was working on seem to be dead in terms of responses
+**Issue : Add Kotlin implementation for Template pattern #65**
+
+To contribute to the pattern library, I chose to work on the Kotlin implementation of the template pattern. Since there already exists an example made for the singleton pattern, the implementation of the template pattern seemed quite interesting to work on. Also, I noticed nobody seemed to be eyeing this certain issue, so I thought it would be a good choice to work on. Thus, I went on to comment a proposal along with a plan to get the issue assigned.
+
+![Kotlin Implementation Proposal](image-6.png)
+
+Just like the initial contribution steps for the tic-tac-toe issue, for contributing to the pattern library, I forked the pattern library repository to my GitHub account. Then I created another branch named "kotlin-implementation-template-pattern" to start working on the issue.
+
+![Pattern-library Fork](image-5.png)
+
+### Connect with Your External Community
+
+**Date Completed:** 23 Mar 2024
+
+I jumped into the external community, commenting on my pull request for the tic-tac-toe issue. This didn't go as planned, as the project community seemed to be dead in terms of responses. Due to this, I went on the hunt for another issue to contribute to and found an issue where code needs to be documented for a fairly small Python project named mapMe. This seemed fairly easy, and I was sure it was not going to consume a lot of my time. I went on working on this issue and finally created a pull request with all necessary info regarding my contributions. Well, at least this time I did get an update regarding my contribution. However, the admin chose to close the pull request without merging my commits. This was because they came to the conclusion that they are not going to proceed with this project and didn't want to waste anyone's time. Despite this, I was still happy to get an update from the external community.
+
+**Issue** https://github.com/michaelMondoro/mapMe/issues/3
+
+**Fork** https://github.com/abhiram-shaji/mapMe/tree/documentation
+
+![mapMe PR](image-7.png)
 
 **Reflection:** Was a learning curve regarding choosing the ideal issue to work on.
 
@@ -333,43 +356,49 @@ I jumped into the external community's world, chatting on their go-to platform, 
 
 **Date Completed:** 23 Mar 2024
 
-I eyeballed all the hot topics and pull requests in the pattern-library
+I eyeballed through pull requests in the pattern-library and found a few Pull Requests where revisions could be made to the code.
 
-**Actions Taken:**
+##### Revision 1
+The first Pull Request I reviewed was "Create observer pattern using c# language #79", worked on by Kuljit. He did a decent job creating the observer pattern using C. However, I found a couple of code improvements he could make. The first was a potential overflow issue, and the second was regarding a calculation that was redundant.
 
-- Went through different issues looking for the most suitable one.
-- Also went through what other’s been doing in the community so far.
-- Pitched new features, drawing from peeks at similar code vaults.
+**PR** https://github.com/nic-dgl104-winter-2024/pattern-library/pull/79
 
-**Reflection:** This deep dive into the pattern-library's heartbeat let me pitch in with smarts, making my mark where it counts.
+![Create observer pattern using c# language #79](image-8.png)
+
+##### Revision 2
+The second was "Add java code implementation example of template pattern #90", worked on by Jessica. Her work seemed fine, however, I was a bit confused regarding the package name since it had uppercase characters, as Java package names are written in lowercase to avoid conflict with classes and interfaces. Moreover, the package name was named "observal pattern" instead of "template pattern." This was a really easy revision to point out.
+
+**PR** https://github.com/nic-dgl104-winter-2024/pattern-library/pull/90
+
+![Create observer pattern using c# language #79](image-9.png)
+
+##### Revision 3
+The third revision I worked on was "Add Observer Pattern using C# language #47," initially developed by Alina. I observed that Alina's code could benefit from a few enhancements. In her code, there was a simpler option to add 'subscribe' and 'unsubscribe' methods to the Subject class to manage its observers and use those in the 'Main' for cleaner code, avoiding direct manipulation of the 'DataChanged' event.
+
+
+**PR** https://github.com/nic-dgl104-winter-2024/pattern-library/pull/91
+
+![Add Observer Pattern using C# language #47](image-10.png)
+
+**Reflection:**  This deep dive into contribution through code reviews was more interesting as I looked at how others were implementing their code and how they were structuring it.
 
 ---
 
 ### Continuing Contributions to External Community
 
-**Date Completed:** 22 Mar 2024
-
-I plowed ahead with the issue I picked in the external community, mapping my voyage, hurdles, and how I dodged them in the `CONTRIBUTING.md`.
-
-**Reflection:** Smooth sailing or choppy waters, this journey's been a treasure trove of lessons in noodling through problems, sticking to it, and the dance of open-source teamwork.
-
----
-
-### Contributing to Pattern-Library
-
 **Date Completed:** 23 Mar 2024
 
-Kept at my mission in the pattern-library, aiming to nail the task at hand and keeping the gang in the loop with my steps.
+As I mentioned earlier, after encountering a lack of response on the tic-tac-toe issue, I shifted my focus to the mapMe project. I found an issue related to documentation, which seemed manageable and not time-consuming. I worked on this issue, made necessary documentaions and submitted a pull request.
 
-**Reflection:** Diving into the pattern-library underscored the big deal of regular chit-chat and updates in team projects, making sure we're all in sync and clued in on the goings-on.
+**Reflection:** This journey's been a treasure trove of lessons in noodling through problems and sticking to it.
 
 ---
+
 
 ### Week 11 Reflections
 
-Tackling stuff with both the external community and the pattern-library project this week was a brain feast! Got my hands dirty with OOP insights, open-source giving, and team coding shenanigans.
+Overall, there was a lot of learnings and works done this week. Tackling stuff with both the external community and the pattern-library project this week was a brain feast! Got my hands dirty with OOP insights, open-source giving, and team coding shenanigans.
 
-**Reflection:** Getting the hang of Kotlin’s flex in both OOP and functional styles has widened my view on its toolkit, boosting my coding finesse across different project landscapes. Also I’m considering switching my language for community code project from JavaScript to Kotlin since nobody seem to be implementing Kotlin and I already have a hot understanding of the language since I worked on some intermediate projects last semester using Ktor framework. Also for the external community project, I’m eyeballing towards a community that uses both Python (for DB and app) and JavaScript (for front end manipulation), due to which I will use both programming language as a part of it.
 
 ---
 
