@@ -68,9 +68,9 @@ Creating user stories is a fundamental aspect of Agile software development, aim
 
 **Date Completed:** 29 Feb 2024
 
-I zipped through GitHub's Explore area, marking favorites on topics and repos linked to JavaScript, especially the node.js framework, eyeing up communities and projects to jump into. I found an interesting JavaScript issue that seems perfect for me to try out to resolve; it seems to be an error in a tic-tac-toe game where if the user wins and redoes the previous move and wins again, every time the user wins, the sound button that pops up after victory just duplicates on every attempt.
+I zipped through up-for-grabs website, marking favorites on topics and repos linked to JavaScript, especially the node.js framework, eyeing up communities and projects to jump into. I found an interesting JavaScript issue that seems perfect for me to try out to resolve; it seems to be an error in a tic-tac-toe game where if the user wins and redoes the previous move and wins again, every time the user wins, the sound button that pops up after victory just duplicates on every attempt.
 
-![Sound Button Duplication Issue Screennshot](image-1.png)
+![tic Tac Toe Issue Screennshot](image-4.png)
 
 **Reflection:** This GitHub safari boosted my know-how of the open-source scene, showing off the perks of joining forces with the community for shared learning and building cool stuff.
 
@@ -226,9 +226,11 @@ Diving deep into open-source contributions and design patterns has been a blast.
 ## Week 10
 ### Weekly Content on MV* Patterns
 
-**Date Attended:** 11 Mar 2024
+**Date Completed:** 11 Mar 2024
 
-Learned about MV* patterns scene, like MVC (Model View Controller) and MVVM (Model View ViewModel). These are the big guns of software architecture, helping to keep apps well-organized and smart.
+Learned about MV* patterns scene, like MVC (Model View Controller) and MVVM (Model View ViewModel). These are the big guns of software architecture, helping to keep apps well-organized and smart. According to DGL104 week 10 lecture notes, MV* patterns are commonly used in web and mobile app development and are considered architectural patterns, distinct from design patterns like Singleton and Observer. Unlike design patterns, which solve specific OOP-based problems, MV* patterns structure the entire app project, ensuring a cohesive and organized approach.
+
+Furthermore, the implementation of MV* patterns is closely tied to specific frameworks. For example, as mentioned in DGL104 week 10 lecture notes, Ruby on Rails, a framework used for web app development, employs the MVC architecture. Meanwhile, native development for iOS and Android has largely transitioned to MVVM, supported by SwiftUI and JetPack Compose respectively, moving away from the previously predominant MVC pattern, particularly in the deprecated iOS Storyboard UI development workflow.
 
 **Reflection:** Learning about MV* patterns was like opening a treasure chest , showing me how they help in keeping different parts of an app tidy and scalable.
 
@@ -238,22 +240,58 @@ Learned about MV* patterns scene, like MVC (Model View Controller) and MVVM (Mod
 
 **Date Completed:** 16 Mar 2024
 
-I dove into the guidelines of an open source project I've got my eye on, scanning through their `README.md`, `CONTRIBUTING.md`, and `CONDUCT.md`.
+I dove into the guidelines of an open-source project I've got my eye on. Upon quick research, I learned that assessing external community contribution guidelines is essential for successful open-source collaboration. According to "Producing Open Source Software" by Karl Fogel, reviewing the `README.md` and `CONTRIBUTING.md` files of a project provides insights into the community's norms and expectations, ensuring contributors align with the project's ethos for effective collaboration.
 
 **Reflection:** This task was like a mini-course on the dos and don’ts of open source collaboration, stressing the need to get the community vibes right for smooth sailing in contributions.
 
 ### Contribution Guidelines Summary:
 
-- Got the scoop on how to chip in properly by reviewing the essential docs.
-- Marked down the must-knows and what's expected from contributors.
+**Date Completed:** 16 Mar 2024
+
+Got the scoop on how to chip in properly by reviewing the essential docs. Marked down the must-knows and what's expected from contributors. The clarity of the contribution process and the availability of guides for new contributors are vital for an open-source project's success. As stated in "Open Source Development Essentials" by the Linux Foundation, clear contribution guidelines and accessible newcomer guides are fundamental to fostering an inclusive and productive community, allowing new contributors to integrate seamlessly and contribute effectively.
 
 ---
 
----
+### Contribute to External Community (Tic-Tac-Toe)
 
----
+**Date Completed:** 11 Mar 2024
 
----
+Since forking and creation of new branch has already been done the previous, I went straight to coding according the sloution plan I made last week. 
+
+**CONTRIBUTING.md**
+
+## Issue
+
+**Sound Button Duplication #132**
+
+If you win the game and undo the last move, then win again, the sound button duplicates itself.
+
+## Solution
+
+The solution involves modifying the `checkWinner` function to check if the sound button already exists before creating a new one. This prevents the duplication of the sound button.
+
+### Code Modification
+
+```javascript
+const checkWinner = () => {
+    // Existing code...
+
+    if (loss1 == 1 || loss2 == 1 || draw1 == 1 || draw2 == 1) {
+        // Check if the button already exists
+        if (!document.getElementById("btn-sound")) {
+            var btn = document.createElement("button");
+            btn.id = "btn-sound";
+            btn.className = "btn-sound";
+            btn.innerHTML = "<i class='fa fa-volume-up' aria-hidden='true'></i>";
+            btn.onclick = muteAudio;
+            document.getElementsByClassName("div-end-of-game")[0].appendChild(btn);
+        }
+    }
+};
+
+```
+
+![Sound button fix commits](image-3.png)
 
 ### Week 10 Reflections
 
