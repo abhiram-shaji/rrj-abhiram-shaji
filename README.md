@@ -319,7 +319,7 @@ Navigating the external community's contribution maze was tough, needing a keen 
 
 **Bibliography:**
 
--
+- DGL104 Week 10 LECTURE - MV* PATTERNS
 
 ## Week 11
 
