@@ -478,4 +478,32 @@ From the weekly content, I gained a deep understanding of functional programming
 
 ## Week 13
 
+Since I was done with a vast portion of my classwork last week, I chose to take a breather this week and take a look at the other pull requests and submissions on pattern-library by fellow students. Other than this, I spent the majority of my time this week developing my React app for advanced mobile app development.
+
 ## Week 14
+
+### Pattern-Library Code reviews
+
+**Date Completed:** 08 April 2024
+
+Gladly, I found a few code enhancement comments that I missed on my assigned issue Kotlin implementation template pattern #89. I made the following changes to my code according to the revisions requested:
+
+````
+- Fixed markdown formatting to properly close the code block.
+- Integrated explanatory comments into the code for better clarity.
+- Added inline comments to describe expected outputs in the main function.
+- Removed redundant casting in the listNames method.
+- Modified the checkName method to check for name existence instead of add operation success.
+- Suggested adding more concrete class implementations to showcase the template pattern's flexibility.
+- Assessed and ensured the broad applicability of the NamesTemplate class.
+````
+
+These should give the required finishing touches to the Kotlin implementation of the template pattern.
+
+### Research and Reflection Journal Submission
+
+Wrapped up and submittied Research and Relection Journal. Added a lot of finishing touches to enhance the journal; this includes indexing the weeks and formatting for better readability, also adding a few screenshots. Overall, it was a really interesting and fun activity to work on.
+
+### Week 14 Reflections
+
+Here is where I wrap up all my work. It was a blast of a journey throughout the course. The assignments were unique and interesting. Each section of the course had something new. I don't know how well I performed from a third-person point of view, but, however, the learning and takeaway from this course are massive and highly appreciated.
