@@ -1,5 +1,16 @@
 # Research and Reflection Journal
 
+## Table of Contents
+- [Week 8](#week-8)
+- [Week 9](#week-9)
+- [Week 10](#week-10)
+- [Week 11](#week-11)
+- [Week 12](#week-12)
+- [Week 13](#week-13)
+- [Week 14](#week-14)
+
+---
+
 ## Week 8
 ### Reading the Research & Reflection Assignment Description
 
