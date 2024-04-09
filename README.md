@@ -421,6 +421,61 @@ Overall, there was a lot of learnings and works done this week. Tackling stuff w
 
 ## Week 12
 
+### Weekly content on FUNCTIONAL PROGRAMMING PARADIGM
+
+**Date Completed:** 27 Mar 2024
+
+This weeks contents were focusing on using functional tools in our code, like map and filter, to make things more efficient and cleaner. No more old-school loops; it's all about sleek, smart coding now!
+
+What's really cool is that we're not just talking about using functional languages outright. It's more about weaving in functional tools and styles, especially through APIs that jazz up our work with collections like arrays and lists. These APIs come with snazzy methods like map, filter, and reduce, and they're not just in one or two languages but in a whole parade of them—Java, Kotlin, Swift, JavaScript, you name it!
+
+### Pattern-Library Code reviews
+
+**Date Completed:** 27 Mar 2024
+
+I found two code enhancement suggestions from my mates on the issue I worked on. First was to refactor the amount of messages the user receives when my code runs and the second was an idea to implement an input validation logic to my code. I took these ideas to consdieration and made ther equired changes in the pull request.
+
+**PR** https://github.com/nic-dgl104-winter-2024/pattern-library/pull/89#issuecomment-2021531105
+
+![Code review changes](image-11.png)
+
+### Community Code Project Submission
+
+**Date Completed:** 28 Mar 2024
+
+Yes, I pulled together a neat text submission for the Brightspace dropbox, packed with links to my Research and Reflection Journal and the updated Community Code Part 1 repository. I made extra sure my submission was crystal clear, showcasing all the effort I've put in and reflecting on every piece of the project, with all the important links to my contributions during our project time.
+
+````
+TicTacToe : Sound Button Duplication #132
+My fork : abhiram-shaji/tictactoe at fix-sound-button-duplication (github.com) 
+Pull request : Fix sound button duplication by abhiram-shaji · Pull Request #136 · yelynn1/tictactoe (github.com) 
+Issue : Sound Button Duplication · Issue #132 · yelynn1/tictactoe (github.com) 
+
+mapMe : Code documentation
+My fork : abhiram-shaji/mapMe at documentation (github.com) 
+Issue : Documentation · Issue #3 · michaelMondoro/mapMe (github.com) 
+
+Part 2 : Pattern Library
+
+Issue worked on : Add Kotlin implementation for Template pattern · Issue #65 · nic-dgl104-winter-2024/pattern-library (github.com) 
+My fork : abhiram-shaji/pattern-library at kotlin-implementation-template-pattern (github.com) 
+
+Other Contributions (Reviews on pull requests)
+https://github.com/nic-dgl104-winter-2024/pattern-library/pull/91#issuecomment-2022156584
+https://github.com/nic-dgl104-winter-2024/pattern-library/pull/90#issuecomment-2024174351
+https://github.com/nic-dgl104-winter-2024/pattern-library/pull/79#issuecomment-2022184378
+````
+
+### Week 12 Reflections
+
+From the weekly content, I gained a deep understanding of functional programming and how it sharpens our coding. The most interesting part was the code suggestions from fellow students, which helped me enhance my code significantly.
+
+---
+
+**Bibliography:**
+
+- Functional Porgramming Paradigm lecture DGL 104.
+
 ## Week 13
 
 ## Week 14
