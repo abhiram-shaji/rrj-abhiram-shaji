@@ -17,8 +17,8 @@ I dived into the Research & Reflection assignment on Brightspace and worked on t
 
 ### Research Findings:
 
-- **Purpose of Haskell:** Haskell is the go-to for academic research and crafting complex apps where trust is key, like in the money and aerospace worlds.
-- **Users of Haskell:** Mostly eggheads and pros in industries craving sturdy software solutions.
+- **Purpose of Haskell:** According to the book "Haskell: The Craft of Functional Programming" by Simon Thompson, Haskell is primarily used in academic research and for developing complex applications where trust is essential, such as in the financial and aerospace sectors.
+- **Users of Haskell:** As noted on the Haskell.org website, Haskell is predominantly utilized by academics and professionals in industries that require robust software solutions.
 - **Useful Resources:**
     - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) – A fab, newbie-friendly guide. (Read it online for free)
     - [Haskell.org](https://www.haskell.org/) – The official Haskell hotspot.
@@ -32,6 +32,8 @@ I dived into the Research & Reflection assignment on Brightspace and worked on t
 This exercise was done in a group with my group consisting of Lara and Nazrin. However, since I didn't save our group work anywhere, I'm creating another one as an example. This will also help be another little practice session for me in building user stories.
 
 **Date Completed:** 26 Feb 2024
+
+Creating user stories is a fundamental aspect of Agile software development, aimed at capturing product features from the end user's perspective. According to Mike Cohn in his book "User Stories Applied," user stories help teams focus on delivering value to the customer by describing how a software feature will be used in simple and concise terms. They typically follow a simple template: "As a [type of user], I want [some goal] so that [some reason]." This approach not only facilitates clear communication but also aids in prioritizing development tasks based on user needs.
 
 - **General User Story:** "As a user, I want to send a message to chat with my peeps."
 - **Specific User Stories:**
@@ -52,6 +54,8 @@ This exercise was done in a group with my group consisting of Lara and Nazrin. H
 
 **Date Completed:** 26 Feb 2024
 
+![Slack message](image.png)
+
 - **Chosen Language:** JavaScript
 - **Experience Level:** 1 Semester in DGL, also worked on a practical node.js project for university capstone in 2021.
 - **Reason for Choice:** Keen to get better at JavaScript.
@@ -64,7 +68,9 @@ This exercise was done in a group with my group consisting of Lara and Nazrin. H
 
 **Date Completed:** 29 Feb 2024
 
-I zipped through GitHub's Explore area, marking favorites on topics and repos linked to JavaScript especially node.js framework, eyeing up communities and projects to jump into.
+I zipped through GitHub's Explore area, marking favorites on topics and repos linked to JavaScript, especially the node.js framework, eyeing up communities and projects to jump into. I found an interesting JavaScript issue that seems perfect for me to try out to resolve; it seems to be an error in a tic-tac-toe game where if the user wins and redoes the previous move and wins again, every time the user wins, the sound button that pops up after victory just duplicates on every attempt.
+
+![Sound Button Duplication Issue Screennshot](image-1.png)
 
 **Reflection:** This GitHub safari boosted my know-how of the open-source scene, showing off the perks of joining forces with the community for shared learning and building cool stuff.
 
@@ -75,6 +81,7 @@ I zipped through GitHub's Explore area, marking favorites on topics and repos li
 A lot of new and fun activities, from getting the gist of Haskell’s role in the tech world to hands-on action in user story writing and picking a language for the Community Code gig. The GitHub journey really hit home on the community's big deal in software making, laying the groundwork for more awesome learn-and-build adventures in this course.
 
 ---
+
 
 **Bibliography:**
 
@@ -98,9 +105,40 @@ Learned design patterns are like secret recipes for coding troubles, giving us s
 
 **Date Completed:** 08 Mar 2028
 
-I checked out the Community Code gig on Brightspace, learning all about the perks of diving into open source and what's expected from our contributions.
+I checked out the Community Code gig on Brightspace, learning all about the perks of diving into open source and what's expected from our contributions. Also, I took a brief glance at the community code project requirements and noted the important aspects according to the rubrics:
+
+**Contributions:** These should match what the community wants. For example, if the community values innovation, the contributions should be innovative.
+
+**Contributions:** These need to be valuable and fit well with community goals, like contributing useful code in a coding community.
+
+**Documentation:** This needs to be very clear and detailed, showing a deep understanding of the topic, like a well-explained guide on how to use software. Also, the importance of including CONTRIBUTING.md and README.md files is emphasized.
+
+**Code:** The code should not only meet but often exceed the community's standards, and be organized, like writing cleaner and more efficient code.
+
+**User Support:** Support should meet or exceed what the community expects and help both new and current users significantly, like offering helpful and clear answers to users' problems.
+
+**Commits:** These should be made regularly, make sense, and each change should be well explained, like consistently providing clear updates in a project's log.
+
+
 
 **Reflection:** This task gave me the idea of boosting my own skills and helping the whole code-loving community.
+
+---
+
+
+### Research and Reflection Journal Rubrics
+
+Similar to the Community Code Rubrics, for Research and Reflection Journal I noted the following important rubrics:
+
+- Journal entries should be clear and thoroughly written.
+- Entries should reflect deep and meaningful learnings, encouraging further thought.
+- Bibliography needs to be well formatted and of high-quality, also should follow citation rules.
+- The journal's structure should enhance its reflective content.
+- Facts needs to be well-supported with relevant evidence.
+- In-text citations should be accurately used.
+- GitHub repo should be properly named and created in the course organization by Week 9.
+
+**Reflection:** This task gave me an idea of what is expected of me in terms of organizing documenting the Journal.
 
 ---
 
@@ -128,7 +166,7 @@ I ventured into Good First Issue, Up for Grabs, and CodeTriage, eyeing Kotlin pr
 ### Projects Explored:
 
 1. **Project A:** https://github.com/react-toolbox/react-toolbox/issues/1774 - Grabbed my attention since it was an easy fix, however this was already fixed and merged. But the interesting part was the fix for the issue wasn’t an ideal solution.
-2. **Project B:** https://github.com/yelynn1/tictactoe/issues/132 - Loved its community vibe and solid guides, however even this was solved. What I noticed in both these issues that annoyed me was that, the contributor’s didn’t bother to comment on the issue, so when I initially saw the issue I thought it wasn’t touched by anyone yet.
+2. **Project B:** https://github.com/yelynn1/tictactoe/issues/132 - This is the same issue I took a glance during the previous week. Loved its community vibe and solid guides, however even this was solved. What I noticed in both these issues that annoyed me was that, the contributor’s didn’t bother to comment on the issue, so when I initially saw the issue I thought it wasn’t touched by anyone yet.
 
 **Reflection:** This hunt showed the rich variety of open-source projects, all needing different kinds of help, from coding to docs and leading the charge.
 
@@ -153,12 +191,19 @@ Went on searching for ideal communities that are suitable for me which is neithe
 
 **Date Completed:** 08 Mar 2028
 
-Back to GitHub, I zeroed in on issues marked "good first issue" or "help wanted" in the projects I liked.
+Back to identifying issues, I finalized on the issue I will be contributing and it's gonna be the tic-tac-toe game that I explored during week 8.
 
-### Issues Identified:
+### Issue Finalized:
 
-1. **Issue A:** https://github.com/prateekkalra/guess-game/issues/8 - This seemed pretty interesting and easy to solve
-2. **Issue B:** https://github.com/prateekkalra/guess-game/issues/62 - This felt way too easy
+**Issue : Sound Button Duplication #132** https://github.com/yelynn1/tictactoe/issues/132 - This seemed pretty interesting and the logic seem pretty easy to understand. the best part is that, there hasn't been a solution that has been merged yet.
+
+**Plan to Tackle the issue** 
+
+For starters I made a fork to the project and made a new branch named "fix-sound-button-duplication".
+
+My planned solution involves, modifying the checkWinner function to check if the sound button already exists before creating a new one. This prevents the duplication of the sound button.
+
+![tic-tact-toe fork](image-2.png)
 
 **Reflection:** This step hammered home that open-source help comes in many flavors, and every little bit adds up to big wins for the project.
 
